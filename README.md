@@ -1,0 +1,3 @@
+# nRF52-ble-audio-streaming
+
+THIS REPOSITORY IS NOT MAINTAINED
